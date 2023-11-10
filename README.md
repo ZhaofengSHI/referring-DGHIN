@@ -1,2 +1,2 @@
 # referring-DGHIN
-Dual-Graph Heterogeneous Interaction Network for Referring Image Segmentation 
+The codes of the paper "Dual-Graph Heterogeneous Interaction Network for Referring Image Segmentation"
