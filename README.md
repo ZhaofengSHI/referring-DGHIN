@@ -1,6 +1,6 @@
-# DGHIN-new-version
-The old version code of the submitted paper "Dual-Graph Hierarchical Interaction Network for Referring Image Segmentation".  
-In this release, we corrected the code related to pre-trained weights loading for the BERT backbone network. The BERT is now initialized with the official pre-trained weights for the training process.  
+# DGHI
+The code of the paper "Dual-Graph Hierarchical Interaction Network for Referring Image Segmentation".  
+ 
 ## Requirements
 We have tested the code on the following environment:  
 ```
