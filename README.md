@@ -1,4 +1,4 @@
-# DGHI
+# DGHIN
 The code of the paper "Dual-Graph Hierarchical Interaction Network for Referring Image Segmentation".  
  
 ## Requirements
