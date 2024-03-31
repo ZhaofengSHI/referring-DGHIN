@@ -16,7 +16,7 @@ We train our model on for datasets: RefCOCO/RefCOCO+/G-Ref/ReferIt, we have pre-
 ```
 python ./data_preprocess/data_preprocess_v3.py --data_root . --output_dir data_v3 --dataset refcoco --split unc --generate_mask 
 ```
-If you want to re-implement the results of the jointly training version, please modify the data_preprocess_v3.py file.
+If you want to re-implement the results of the jointly training version, please modify the data_preprocess_v3.py file.  
 Please download the offical pre-trained weights of the visual backbone (Swin-Base 22K 384x384):
 ```
 https://github.com/microsoft/Swin-Transformer
