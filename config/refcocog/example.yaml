@@ -1,0 +1,7 @@
+train_set: /home/shi/data/data_v3/anns/refcocog/train.json
+evaluate_set: /home/shi/data/data_v3/anns/refcocog/val.json
+test_set: /home/shi/data/data_v3/anns/refcocog/test.json
+seg_gt_path: /home/shi/data/data_v3/masks/refcocog
+image_path: /home/shi/data/images/train2014
+
+

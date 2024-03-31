@@ -1,0 +1,13 @@
+train_set: /home/shi/data/data_v3/anns/refcoco/train.json
+evaluate_set: /home/shi/data/data_v3/anns/refcoco/val.json
+test_set: /home/shi/data/data_v3/anns/refcocog/test.json
+testA_set: /home/shi/data/data_v3/anns/refcoco/testA.json
+testB_set: /home/shi/data/data_v3/anns/refcoco/testB.json
+seg_gt_path: /home/shi/data/data_v3/masks/refcoco
+image_path: /home/shi/data/images/train2014
+word_embed: en_core_web_lg
+word_len: 17
+input_size: 416
+backbone_weight: /home/shi/data/pretrained_weights/swin_tiny_patch4_window7_224.pth
+BERT_weight: /home/shi/data/bert-base-uncased
+name: Baseline_Net
